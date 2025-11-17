@@ -28,4 +28,4 @@ btn.addEventListener('click', function() {
 
     // Update the text to show the new color code
     colorDisplay.textContent = hexColor;
-});
+});     
